@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "514092051598",
+    "project_id": "flash-chat-fd17f",
+    "storage_bucket": "flash-chat-fd17f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514092051598:android:c0e8e126ac17660f22addf",
+        "android_client_info": {
+          "package_name": "com.Abderehmans.chatting_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514092051598-uis0fkm22299rud7egvhkbs1ebi02t5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsV3NQ8RZL78z0YoDYn4ket20Hxd5jsus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514092051598-uis0fkm22299rud7egvhkbs1ebi02t5i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
